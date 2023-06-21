@@ -5,7 +5,7 @@ from skimage.io import imread
 
 
 # download the image
-img_url = 'https://commons.wikimedia.org/wiki/File:Houousan_from_kaikomagatake_50_1996_9_15.jpg'
+img_url = 'https://commons.wikimedia.org/wiki/File:Kannondake_from_Jizodake.jpg'
 
 im = imread(img_url)
 
